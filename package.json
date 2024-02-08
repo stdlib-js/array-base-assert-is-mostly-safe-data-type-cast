@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-assert-is-mostly-safe-data-type-cast",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Determine if an array data type can be safely cast or, for floating-point data types, downcast to another array data type.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-mostly-safe-casts": "github:stdlib-js/array-mostly-safe-casts#main"
+    "@stdlib/array-mostly-safe-casts": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/array-cartesian-square": "github:stdlib-js/array-cartesian-square#main",
